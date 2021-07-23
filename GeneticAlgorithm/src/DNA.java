@@ -77,7 +77,7 @@ public class DNA {
         for(int i = 0; i < genes.length-1; i+=2){
             father1 = genes[matingpool[(int) (Math.random() * ftot)]];
             father2 = genes[matingpool[(int) (Math.random() * ftot)]];
-            for(; father1 == father2;)
+            while(father1 == father2)
                 father2 = genes[matingpool[(int) (Math.random() * ftot)]];
             inheritance(i);
         }
