@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-**Thesis for my High school Degree in Computer Science made in 2018**
+**Thesis for my High school Degree in Computer Science made in academic year 2017/2018**
 
 Simple implementation of a Genetic Algorithm to understand which phrase has been entered by the user and find it, with explanation. 
 
