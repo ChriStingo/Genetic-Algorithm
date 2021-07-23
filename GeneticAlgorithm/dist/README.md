@@ -7,3 +7,4 @@ Made by: **Christian Stingone**
 
 Example of execution:
 
+![image](https://user-images.githubusercontent.com/62427405/126843762-caf91b90-4842-4831-947e-2f0f64568c78.png)
