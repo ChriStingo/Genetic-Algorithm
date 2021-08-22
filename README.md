@@ -4,7 +4,7 @@
 Simple implementation of a Genetic Algorithm to understand which phrase has been entered by the user and find it, with explanation. 
 
 ### In this repository you can find:
-* **GeneticAlgorithm**: the JAVA project made with NetBeans (/src/ for .java files)
+* **GeneticAlgorithm/**: the JAVA project made with NetBeans (/src/ for .java files)
 * **Genetic Algorithm.pdf**: *theory and explanation* of this typology of algorithms and of this project
 * **GeneticAlgorithm/dist/GeneticAlgorithm.jar**: program already built, try it!
 
